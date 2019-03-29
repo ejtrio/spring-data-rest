@@ -1,0 +1,9 @@
+{
+  "user" : "http://localhost:8080/users/1",
+  "items": [
+    {
+      "item": "http://localhost:8080/items/1",
+      "quantity": 1
+    }
+  ]
+}

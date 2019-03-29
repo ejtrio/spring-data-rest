@@ -1,0 +1,31 @@
+= Users Repository
+
+==== GET
+
+.request
+include::{snippets}/getUsers/http-request.adoc[]
+
+.response
+include::{snippets}/getUsers/response-fields.adoc[]
+
+.curl
+include::{snippets}/getUsers/curl-request.adoc[]
+
+==== POST
+
+.request
+include::{snippets}/postUsers/http-request.adoc[]
+
+.response
+include::{snippets}/postUsers/request-fields.adoc[]
+
+.curl
+include::{snippets}/postUsers/curl-request.adoc[]
+
+==== DELETE
+
+.request
+include::{snippets}/deleteUsers/http-request.adoc[]
+
+.curl
+include::{snippets}/deleteUsers/curl-request.adoc[]

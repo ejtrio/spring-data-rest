@@ -1,0 +1,7 @@
+{
+  "orderItemId" : {
+    "order" : "http://localhost:8080/orders/1",
+    "item" : "http://localhost:8080/items/1"
+  },
+  "quantity" : 1
+}

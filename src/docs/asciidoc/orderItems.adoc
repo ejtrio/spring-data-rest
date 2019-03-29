@@ -1,0 +1,12 @@
+= Order Items Repository
+
+==== GET
+
+.request
+include::{snippets}/getOrderItems/http-request.adoc[]
+
+.response
+include::{snippets}/getOrderItems/response-fields.adoc[]
+
+.curl
+include::{snippets}/getOrderItems/curl-request.adoc[]

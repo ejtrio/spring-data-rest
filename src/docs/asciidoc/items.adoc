@@ -1,0 +1,31 @@
+= Items Repository
+
+==== GET
+
+.request
+include::{snippets}/getItems/http-request.adoc[]
+
+.response
+include::{snippets}/getItems/response-fields.adoc[]
+
+.curl
+include::{snippets}/getItems/curl-request.adoc[]
+
+==== POST
+
+.request
+include::{snippets}/postItems/http-request.adoc[]
+
+.response
+include::{snippets}/postItems/request-fields.adoc[]
+
+.curl
+include::{snippets}/postItems/curl-request.adoc[]
+
+==== DELETE
+
+.request
+include::{snippets}/deleteItems/http-request.adoc[]
+
+.curl
+include::{snippets}/deleteItems/curl-request.adoc[]

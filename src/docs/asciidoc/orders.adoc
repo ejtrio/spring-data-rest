@@ -1,0 +1,43 @@
+= Orders Repository
+
+==== GET
+
+.request
+include::{snippets}/getOrders/http-request.adoc[]
+
+.response
+include::{snippets}/getOrders/response-fields.adoc[]
+
+.curl
+include::{snippets}/getOrders/curl-request.adoc[]
+
+==== GET
+====== OrderDetail Projection
+
+.request
+include::{snippets}/getOrdersProjection/http-request.adoc[]
+
+.response
+include::{snippets}/getOrdersProjection/response-fields.adoc[]
+
+.curl
+include::{snippets}/getOrdersProjection/curl-request.adoc[]
+
+==== POST
+
+.request
+include::{snippets}/postOrders/http-request.adoc[]
+
+.response
+include::{snippets}/postOrders/request-fields.adoc[]
+
+.curl
+include::{snippets}/postOrders/curl-request.adoc[]
+
+==== DELETE
+
+.request
+include::{snippets}/deleteOrders/http-request.adoc[]
+
+.curl
+include::{snippets}/deleteOrders/curl-request.adoc[]
